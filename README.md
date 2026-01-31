@@ -6,8 +6,11 @@
 
 
 🌑 A first year CSE student passionate about development
+
 🌕 I'm looking forward to make exciting and fun projects and participate in hackathons
+
 🌑 I'm currently exploring the feild of cybersecurity
+
 🌕 I'm eager learn about Linux and open-source systems 
 
 <!--
