@@ -1,7 +1,14 @@
-## Hi there 👋
+## Hi there 👋 I'm Mifra :)
 
 
 ![My RepoVerse](https://raw.githubusercontent.com/M-Mifra/repo-verse/main/public/universe.svg)
+
+
+
+🌑 A first year CSE student passionate about development
+🌕 I'm looking forward to make exciting and fun projects and participate in hackathons
+🌑 I'm currently exploring the feild of cybersecurity
+🌕 I'm eager learn about Linux and open-source systems 
 
 <!--
 **M-Mifra/M-Mifra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
